@@ -7,3 +7,8 @@ src/ai_test_automation_proto.egg-info/entry_points.txt
 src/ai_test_automation_proto.egg-info/requires.txt
 src/ai_test_automation_proto.egg-info/top_level.txt
 src/atp/__init__.py
+src/atp/cli.py
+src/atp/rag/rag_core.py
+src/atp/web/index.py
+src/atp/web/scrape.py
+src/atp/web/search.py

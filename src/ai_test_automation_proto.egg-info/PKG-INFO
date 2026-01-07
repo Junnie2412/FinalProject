@@ -1,7 +1,7 @@
 Metadata-Version: 2.4
 Name: ai-test-automation-proto
 Version: 0.1.0
-Summary: AI-Powered Software Testing Automation App (AI Test Agent)
+Summary: Prototype: PDF RAG (Chroma+Ollama) + controlled web scraping (Playwright) + simple pipeline CLI.
 Requires-Python: >=3.11
 Requires-Dist: chromadb>=0.5.0
 Requires-Dist: langchain>=0.2.0
@@ -15,3 +15,4 @@ Requires-Dist: rich>=13.0.0
 Requires-Dist: playwright>=1.45.0
 Requires-Dist: lxml>=5.0.0
 Requires-Dist: cssselect>=1.2.0
+Requires-Dist: googlesearch-python>=1.2.3
