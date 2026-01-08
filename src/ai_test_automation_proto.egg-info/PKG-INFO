@@ -16,3 +16,4 @@ Requires-Dist: playwright>=1.45.0
 Requires-Dist: lxml>=5.0.0
 Requires-Dist: cssselect>=1.2.0
 Requires-Dist: googlesearch-python>=1.2.3
+Requires-Dist: mcp[cli]>=1.2.0

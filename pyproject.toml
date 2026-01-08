@@ -12,16 +12,15 @@ dependencies = [
   "langchain-chroma>=0.1.0",
   "langchain-ollama>=0.1.0",
   "pypdf>=4.0.0",
-
   # CLI + logging
   "typer>=0.12.0",
   "rich>=13.0.0",
-
   # Web
   "playwright>=1.45.0",
   "lxml>=5.0.0",
   "cssselect>=1.2.0",
   "googlesearch-python>=1.2.3",
+  "mcp[cli]>=1.2.0",
 ]
 
 [project.scripts]
